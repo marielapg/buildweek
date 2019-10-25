@@ -187,6 +187,7 @@ header {
   margin-top: 13px;
   max-width: 350px;
   width: 30%;
+   height:100% !important;
 }
 @media (max-width: 800px) {
   .pimg .pic {
