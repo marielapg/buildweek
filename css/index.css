@@ -185,9 +185,8 @@ header {
 .pimg .pic {
   border-radius: 25px;
   margin-top: 13px;
-  max-width: 350px;
+  min-width: 400px;
   width: 30%;
-   height:100% !important;
 }
 @media (max-width: 800px) {
   .pimg .pic {
@@ -314,7 +313,7 @@ nav a {
   justify-content: center;
   align-items: center;
   font-size: 25px;
-  text-decoration: none;
+  text-decoration: underline;
   color: #FFFDF5;
 }
 @media (max-width: 500px) {
