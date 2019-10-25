@@ -185,7 +185,7 @@ header {
 .pimg .pic {
   border-radius: 25px;
   margin-top: 13px;
-  min-width: 400px;
+  max-width: 350px;
   width: 30%;
 }
 @media (max-width: 800px) {
